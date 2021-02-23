@@ -37,7 +37,7 @@ Exemplo:
 ![Gráfico de pizza](./images/grafico.png)
 <br/><br/>
 Crie o componente Resultado (src/js/components/Resultado.js) através do framework ReactJS, com as seguintes caracteristicas:
-- Possue a propriedade *data*, que recebe um array de objetos com as seguintes informações:
+- Possue a propriedade *data*, que recebe um objeto com as seguintes informações:
 ```javascript
 {
     labels: [<cabeçalho da tabela 1>,<cabeçalho da tabela 2>,<cabeçalho da tabela 3>],
@@ -71,4 +71,4 @@ Filtre os dados da variável *callsData* para cada dia selecionado (tag select),
 
 Crie um repositório seu no bitbucket ou github com a resolução do problema e passe para o RH.
 
-Se possível, crie/altere o README.md e descreva sobre a resolução, e o que poderia ser melhorado no código (no seu e o que foi disponibilizado).
+Se possível, crie/altere o README.md e descreva sobre a resolução, e o que poderia ser melhorado no código (no seu e no que foi disponibilizado).
